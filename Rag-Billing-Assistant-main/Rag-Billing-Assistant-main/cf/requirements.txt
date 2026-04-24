@@ -1,0 +1,13 @@
+# Core framework
+langchain>=0.3.0
+langgraph>=0.2.0
+
+# RAG stack
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pypdf>=5.0.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+
+# PDF generation for source-of-truth documents
+reportlab>=4.2.0
